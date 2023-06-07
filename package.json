@@ -1,0 +1,8 @@
+{
+  "name": "food-ordering-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kishpower/food-ordering-app.git",
+  "author": "Ganesh Walunj <ganesh.walunj@techverito.com>",
+  "license": "MIT"
+}
